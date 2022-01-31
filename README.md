@@ -11,4 +11,4 @@ Create a store.js file which which calls the file containing all the variables.
 
 Create a navSlice.js file which contains all the variable that will be used globally in the app and maintain the state. 
 
-An example of App.js is included 
+An example of App.js is included.
